@@ -1,0 +1,32 @@
+{
+  "errno": 0,
+  "data": {
+    "userInfo": {
+      "id": 990,
+      "doctorName": "许医生",
+      "departmentName": "行为医学诊疗中心",
+      "categoryName": "主任医师",
+      "organName": "怡宁健康互联网医院",
+      "nickName": "18267195720",
+      "avatarUrl": "https://yanxuan.nosdn.127.net/80841d741d7fa3073e0ae27bf487339f.jpg?imageView&quality=90&thumbnail=64x64",
+      "mobile": "18267195720",
+      "gender": 0,
+      "imUsername": "doctor_990",
+      "imPass": "9758639e9ac3c0694c6392ad38665476",
+      "isRegister": true,
+      "isAuth": "1",
+      "isPrescription": true,
+      "userLog": {
+        "star": 0,
+        "good": 100,
+        "monthMoney": 0.05,
+        "orderNum": 6,
+        "patientNum": 3
+      },
+      "introduction": "肺炎123"
+    },
+    "expireDate": 1587690098000,
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ0aGlzIGlzIGxpdGVtYWxsIHRva2VuIiwiYXVkIjoiTUlOSUFQUCIsImlzcyI6IkxJVEVNQUxMIiwiZXhwaXJlRGF0ZSI6MTU4NzY5MDA5OCwiZXhwIjoxNTg3NjkwMDk4LCJ1c2VySWQiOjExNSwiaWF0IjoxNTg3NjAzNjk4fQ.OxNl9JS_bj27gLqCZlXzpRpXaRD1bcfbVZniwceqcEA"
+  },
+  "errmsg": "成功"
+}
